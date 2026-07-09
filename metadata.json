@@ -1,0 +1,6 @@
+{
+  "name": "Savills Radar",
+  "description": "CRE lead-intelligence POC for the IMDA OIP Call 29 (Savills) challenge. React + Express backend with Gemini search-grounded scans.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
